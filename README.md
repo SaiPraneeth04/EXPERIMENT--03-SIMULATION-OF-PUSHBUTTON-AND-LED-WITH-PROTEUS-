@@ -91,8 +91,9 @@ void HAL_GPIO_EXTI_Callback(uint16_t GPIO_Pin)
 
 
 ## Proteus layout(Add pdf screen shot of circuit here)
- 
- ![Uploading Screenshot 2024-09-06 141421.png…]()
+
+ ![Screenshot 2024-09-06 141421](https://github.com/user-attachments/assets/08498b1f-d28a-48ef-9de9-4d7120f29bdf)
+
 
  
  
